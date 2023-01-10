@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeatherAppOnCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:color">#FFFFFFFF</item>
+        <item name="colorScheme">@color/white</item>
+    </style>
+</resources>
